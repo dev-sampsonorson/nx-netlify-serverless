@@ -5,6 +5,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'nx-netlify-serverless-root',
   template: `
     <h2 [textContent]="message"></h2>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa, necessitatibus.</p>
   `,
   styles: [],
 })
